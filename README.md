@@ -1,4 +1,5 @@
 # webGame
+Here is the game link: http://fairygame123.epizy.com/
 Fairy Game is a simple HTML and Javascript game.
 
 How to Play

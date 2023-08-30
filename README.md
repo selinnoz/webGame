@@ -9,4 +9,5 @@ How to Play
 Gameplay
 ![image](https://github.com/selinnoz/webGame/assets/73435487/2ea91cf3-a3b6-4508-96ba-5fdd44910eca)
 
+Game Over when witches catch you!
 ![Ekran görüntüsü 2023-08-30 133858](https://github.com/selinnoz/webGame/assets/73435487/9b6f55c4-8672-4433-bc3a-16a9355c7229)
